@@ -1,0 +1,12 @@
+{
+    "name"        : "jf-flatten",
+    "version"     : "0.1.0",
+    "description" : "Recursively flatten arrays or objects.",
+    "author"      : "Joaquín Fernández",
+    "license"     : "MIT",
+    "homepage"    : "http://www.joaquinfernandez.net",
+    "repository"  : {
+        "type" : "git",
+        "url"  : "https://github.com/joaquinfq/jf-flatten"
+    }
+}
